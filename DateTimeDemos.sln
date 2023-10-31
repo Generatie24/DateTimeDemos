@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeDemos", "DateTimeDemos\DateTimeDemos.csproj", "{21AD13FB-3F74-44CE-8CEF-A4BBFF13A67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSpanDemo", "TimeSpanDemo\TimeSpanDemo.csproj", "{ED797666-6BCA-425C-8351-97E178CB88F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeFormat", "DateTimeFormat\DateTimeFormat.csproj", "{882E1C24-B1B4-4697-AAE0-AD87E7FC89FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthdate", "Birthdate\Birthdate.csproj", "{ECFD05A5-33FB-4BC8-9CFA-D2002D98DF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputDateTime", "InputDateTime\InputDateTime.csproj", "{1E80C6DA-B8AE-4F3B-926D-CCEAEE5D2001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{00D428AC-3B32-467D-A3A5-F715ECF9C9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AD13FB-3F74-44CE-8CEF-A4BBFF13A67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AD13FB-3F74-44CE-8CEF-A4BBFF13A67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AD13FB-3F74-44CE-8CEF-A4BBFF13A67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AD13FB-3F74-44CE-8CEF-A4BBFF13A67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED797666-6BCA-425C-8351-97E178CB88F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED797666-6BCA-425C-8351-97E178CB88F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED797666-6BCA-425C-8351-97E178CB88F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED797666-6BCA-425C-8351-97E178CB88F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882E1C24-B1B4-4697-AAE0-AD87E7FC89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882E1C24-B1B4-4697-AAE0-AD87E7FC89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882E1C24-B1B4-4697-AAE0-AD87E7FC89FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882E1C24-B1B4-4697-AAE0-AD87E7FC89FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFD05A5-33FB-4BC8-9CFA-D2002D98DF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFD05A5-33FB-4BC8-9CFA-D2002D98DF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFD05A5-33FB-4BC8-9CFA-D2002D98DF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFD05A5-33FB-4BC8-9CFA-D2002D98DF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E80C6DA-B8AE-4F3B-926D-CCEAEE5D2001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E80C6DA-B8AE-4F3B-926D-CCEAEE5D2001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E80C6DA-B8AE-4F3B-926D-CCEAEE5D2001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E80C6DA-B8AE-4F3B-926D-CCEAEE5D2001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D428AC-3B32-467D-A3A5-F715ECF9C9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D428AC-3B32-467D-A3A5-F715ECF9C9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D428AC-3B32-467D-A3A5-F715ECF9C9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D428AC-3B32-467D-A3A5-F715ECF9C9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349C0D19-B175-40C9-9805-E44C108CB2AA}
+	EndGlobalSection
+EndGlobal
